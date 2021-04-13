@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  PaymentApp
+
+  Created by Diego on 10-04-21.
+  
+*/
+
+"Ingresa monto" = "Enter amount";
+"Continuar" = "Continue";
+"Pagar" = "Pay now";
+"Monto" = "Amount";
+"Ingrese un monto válido" = "Enter a valid amount";
+
+"Medio de pago" = "Payment method";
+"Medios de pago" = "Payment methods";
+"Selecciona medio de pago" = "Select payment method";
+
+"Banco" = "Card Issuer";
+"Bancos" = "Card Issuers";
+"Selecciona banco" = "Select issuer";
+
+"Cuotas" = "Installments";
+"Selecciona cuotas" = "Select installments";
+
+"No hay registros" = "No data";
+"Tire para actualizar" = "Pull to refresh";
+
+"NO_INTERNET_CONNECTION" = "No internet conection available";
+"UNKNOWN_ERROR" = "Error desconocido. Intenta más tarde";
